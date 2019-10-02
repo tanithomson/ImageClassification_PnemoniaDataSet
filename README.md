@@ -1,1 +1,1 @@
-# ImageClassification_PnemoniaDataSet
+# ImageClassification_PneumoniaDataSet
